@@ -5,8 +5,6 @@
 
 ---
 
-Telegram交流反馈群组：https://t.me/eooceu
-
 huggingface视频教程地址：https://youtu.be/XERxg9AODeo
 </div>
 
